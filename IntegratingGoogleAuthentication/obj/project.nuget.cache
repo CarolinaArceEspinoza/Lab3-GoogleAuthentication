@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pkuzkkuIEJkVkPrh/tiTpkJpXi6uqdFaQ8hY2vr/fWS6SMItGKGHWXACwrqOPFfZ2VQ2TAvEwDQFchMBTndVgg==",
+  "success": true,
+  "projectFilePath": "/Users/carolinaarce/Documents/TrabajosCaro/GeorgianCollege/Semester3/asp/Lab3-GoogleAuthentication/IntegratingGoogleAuthentication/IntegratingGoogleAuthentication.csproj",
+  "expectedPackageFiles": [
+    "/Users/carolinaarce/.nuget/packages/microsoft.aspnetcore.authentication.google/7.0.13/microsoft.aspnetcore.authentication.google.7.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
